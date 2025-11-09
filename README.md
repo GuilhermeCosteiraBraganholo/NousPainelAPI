@@ -42,4 +42,3 @@ seguindo exatamente o enunciado do professor.
 - Julio Cesar Dias Vilella (RM 560494)
 - Gabriel Nakamura Ogata (RM 560671)
 
-_Data:_ 2025-11-03
